@@ -3,6 +3,7 @@ package main.java;
 public class Person {
     //p1,p2
     String name;
+    //id1
     String id;
     public  Person(String name,String id){
         this.name = name;

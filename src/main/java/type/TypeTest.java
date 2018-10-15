@@ -39,7 +39,7 @@ public class TypeTest {
         node2.next = node3;
         node3.next = null;
 
-         //1
+         //1,2,3
          Node head = node1;
         while (head !=null){
             System.out.println(head.getData());

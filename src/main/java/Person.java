@@ -10,7 +10,7 @@ public class Person {
         this.id = id;
 
     }
-    //n1,n2,n3
+    //n1,n2
     public String getName() {
         return name;
     }

@@ -25,7 +25,7 @@ public class StackTest {
         Integer integer = Integer.valueOf(100);
         Integer integer2 = Integer.valueOf(100);
 
-        //1
+        //1,2,3,4
         System.out.println(integer2 == integer);
 
     }
